@@ -1,0 +1,30 @@
+List of Web sites and github repositories that I used in this submission
+
+
+https://wiki.openstreetmap.org/wiki/Main_Page
+Information related to OSM
+
+https://github.com/ziyanfeng/udacity-data-wrangling-mongodb/blob/master/Final%20Project/OpenStreetMap-UWS.ipynb
+Data extraction, postal code, time counter
+
+# https://datatofish.com/create-database-python-using-sqlite3/   
+Database creation
+
+https://nbviewer.jupyter.org/github/gauravansal/Wrangle-OpenStreetMap-Data/blob/master/Wrangle%20OpenStreetMap%20Data.ipynb
+Counting elements tags in the file and not to do: long list of tags and values
+
+#https://hadrien-lcrx.github.io/notebooks/Boston_Data_Wrangling.html
+Cleaning street and creating csv and database. 
+
+#https://www.it-swarm.dev/es/python/importar-un-archivo-csv-en-una-tabla-de-base-de-datos-sqlite3-usando-python/969573478/
+Database creation
+
+#https://howisonlab.github.io/datawrangling/class_modules/12_csv_to_sql_via_python/
+Database creation
+
+https://medium.com/@williamkoehrsen/data-wrangling-with-python-and-sqlite-900d21bc5a53
+general overview
+
+http://www.yannispappas.com/Wrangle-OpenStreetMap-Data/
+general concept
+

@@ -1,0 +1,21 @@
+
+Area chosen is Toulouse (France) that is the city I live since 2003.
+To download the data we go to OSM 
+https://www.openstreetmap.org/#map=13/43.5977/1.4389 
+
+#This download the complete Toulouse map
+url = 'http://overpass-api.de/api/map?bbox=1.3935, 43.5595,1.5024,43.6552'
+# This download the sample map
+#url = 'http://overpass-api.de/api/map?bbox=1.4224, 43.6126,1.4354,43.6248'
+
+This project request to choose an area of the world in https://www.openstreetmap.org and use data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OSM data for that place.
+ 
+I have chosen Toulouse (France) that is the city I live since 2003. This is a city very interesting from several point of view:
+1.	this is a university town that means there are a lot of student and young people living there and not only French people, 
+2.	it is the city where Airbus has his headquarter then there are a lot of aircraft and activities around design and manufacturing aircraft,
+3.	it is very close to the mountains (Pirinees) were you can go for walking or skiing
+4.	it is the middle of the way from Atlantic Ocean to Mediterranean sea, that means you can go easily to one of those areas to enjoy the sea and the beach  
+5.	the city itself is big enough to have a very rich cultural life but not too much big to overwhelmed you 
+6.	there climate is good, you have rain and sun in winter and summer
+
+I wanted to investigate if the if OSM was at the level of quality that a city like Toulouse deserve
